@@ -18,7 +18,7 @@ protocol HomeViewModelProtocol: AnyObject { // If you do not want to expose type
 class HomeViewModel: HomeViewModelProtocol {
     
     
-    typealias T = [HomeModel] // you can define type
+    // typealias T = [HomeModel] // you can define type
     private let apiService: NetworkManagerProtocol
     
     private var cancellable = Set<AnyCancellable>()
@@ -32,7 +32,7 @@ class HomeViewModel: HomeViewModelProtocol {
         self.apiService = apiService
     }
     
-    func fetchHomeViewData(completionHandler: @escaping Handler<T>)  {
+    func fetchHomeViewData(completionHandler: @escaping (Result<[HomeModel], DataError>) -> Void)  {
         apiService.fetchData(url: .home, queryParams: queryParams, method: .GET, bodyParams: [:], type: HomeModel.self).sink { completion in
             
             switch completion {
