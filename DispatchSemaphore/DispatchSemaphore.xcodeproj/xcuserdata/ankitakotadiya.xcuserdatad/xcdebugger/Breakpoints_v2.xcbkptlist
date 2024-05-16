@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8984DD46-756D-45AD-B20E-31087285352B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1EE49907-B0AE-4745-9DC1-C3A97B559C77"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DispatchSemaphore/Home/View/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1EE49907-B0AE-4745-9DC1-C3A97B559C77 - bc50b417449d56b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DispatchSemaphore.ViewController.collectionView(_: __C.UICollectionView, cellForItemAt: Foundation.IndexPath) -&gt; __C.UICollectionViewCell"
+                  moduleName = "DispatchSemaphore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankitakotadiya/Downloads/DispatchSemaphore/DispatchSemaphore/Home/View/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "151">
+               </Location>
+               <Location
+                  uuid = "1EE49907-B0AE-4745-9DC1-C3A97B559C77 - bc50b417449d56b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DispatchSemaphore.ViewController.collectionView(_: __C.UICollectionView, cellForItemAt: Foundation.IndexPath) -&gt; __C.UICollectionViewCell"
+                  moduleName = "DispatchSemaphore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankitakotadiya/Downloads/DispatchSemaphore/DispatchSemaphore/Home/View/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "414">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "963551B0-1EE4-4BEF-B266-34D321343849"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DispatchSemaphore/Home/View/ImageCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "ImageCollectionViewCell"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7E9DBCB1-239E-4843-A1F0-85F1DE288E37"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DispatchSemaphore/Home/View Model/HomeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "downloadImageData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7E9DBCB1-239E-4843-A1F0-85F1DE288E37 - 2892d8ccab4ba116"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #1 @Sendable () -&gt; () in DispatchSemaphore.HomeViewModel.downloadImageData() -&gt; ()"
+                  moduleName = "DispatchSemaphore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankitakotadiya/Downloads/DispatchSemaphore/DispatchSemaphore/Home/View%20Model/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "279">
+               </Location>
+               <Location
+                  uuid = "7E9DBCB1-239E-4843-A1F0-85F1DE288E37 - 97b37b58c71a0117"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #1 @Sendable () -&gt; () in DispatchSemaphore.HomeViewModel.downloadImageData() -&gt; ()"
+                  moduleName = "DispatchSemaphore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankitakotadiya/Downloads/DispatchSemaphore/DispatchSemaphore/Home/View%20Model/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "290">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
