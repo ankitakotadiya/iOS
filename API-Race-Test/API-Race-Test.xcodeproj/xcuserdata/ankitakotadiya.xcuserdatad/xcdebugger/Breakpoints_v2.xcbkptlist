@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2AB0AC07-9991-4D52-9C4D-2AFDEB4F0995"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2025C556-8C06-44EC-915E-EB0CFBA74F16"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "API-Race-Test/Screens/ViewModel/HomeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "fetchCombineAnyPublisher()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F60EFCE3-F395-49E4-AED4-2E218D0CD918"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "API-Race-Test/Screens/ViewModel/HomeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "fetchCombineAnyPublisher()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "249E7EC0-D95E-41DC-AF85-04FEEAD019CC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "API-Race-Test/NetworkManager/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "callCombineAnyPublisher(url:queryParams:bodyParams:method:type:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0E05D78D-FB22-41EA-9F4E-1D4C66CD82D3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "API-Race-Test/NetworkManager/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "197"
+            endingLineNumber = "197"
+            landmarkName = "traditionalApiCall(url:queryparams:bodyParams:method:type:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0E05D78D-FB22-41EA-9F4E-1D4C66CD82D3 - 6f9e37576f2dca50"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "API_Race_Test.NetworkManager.traditionalApiCall&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Swift.String, queryparams: Swift.Dictionary&lt;Swift.String, Swift.String&gt;, bodyParams: Swift.Dictionary&lt;Swift.String, Any&gt;, method: API_Race_Test.HTTPMethod, type: &#x3c4;_0_0.Type, completion: (Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, API_Race_Test.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "API-Race-Test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankitakotadiya/Downloads/API-Race-Test/API-Race-Test/NetworkManager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "197"
+                  endingLineNumber = "197"
+                  offsetFromSymbolStart = "3153">
+               </Location>
+               <Location
+                  uuid = "0E05D78D-FB22-41EA-9F4E-1D4C66CD82D3 - 6f9e37576f2dca50"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "API_Race_Test.NetworkManager.traditionalApiCall&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(url: Swift.String, queryparams: Swift.Dictionary&lt;Swift.String, Swift.String&gt;, bodyParams: Swift.Dictionary&lt;Swift.String, Any&gt;, method: API_Race_Test.HTTPMethod, type: &#x3c4;_0_0.Type, completion: (Swift.Result&lt;Swift.Array&lt;&#x3c4;_0_0&gt;, API_Race_Test.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "API-Race-Test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankitakotadiya/Downloads/API-Race-Test/API-Race-Test/NetworkManager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "197"
+                  endingLineNumber = "197"
+                  offsetFromSymbolStart = "868">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
