@@ -24,6 +24,18 @@ For large team-based projects, I prioritize collaboration to address challenges 
 I encountered some difficulties with the existing architecture, which complicated testing and led to random crashes. Specifically, I found that views created using XIBs were challenging to scale, especially for dynamic screens.
 
 Initially, networking, local database management, and model classes were consolidated into a single class. This setup caused various issues, which I resolved by refactoring the code. I introduced common classes to enhance reusability across the app and ensured that each entity has a single responsibility. This was achieved through dependency injection.
-- What bugs did you find but not fix?
-- What would you change about the visual design of the app?
-- Approximately how long you spent on this project.
+
+### What bugs did you find but not fix?
+I would like to review the coordinator flow one more time to ensure it does not introduce any new issues. Additionally, there is a design element involving a search icon and placeholder positioned in the middle of the field. I want to confirm that users can type from the center of the field as intended. Based on this confirmation, I will address any necessary fixes.
+
+I have made efforts to resolve other bugs and will continue to work closely with the quality assurance team to identify and fix any remaining issues.
+
+### What would you change about the visual design of the app?
+To enhance user experience, placing the "Favorite" button within the image block will make it more noticeable and easily accessible. Additionally, the "Favorites" button can be positioned on the navigation bar for convenient access to the user's favorite items.
+
+Furthermore, it would be beneficial to implement an API endpoint for marking items as favorites. This would allow us to send this information to the server, ensuring that user preferences are preserved and can be retrieved in case of data loss.
+
+Lastly, incorporating a scrollable content area within a defined bounding box would improve usability and ensure a more organized layout.
+
+### Approximately how long you spent on this project.
+
