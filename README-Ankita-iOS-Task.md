@@ -38,4 +38,4 @@ Furthermore, it would be beneficial to implement an API endpoint for marking ite
 Lastly, incorporating a scrollable content area within a defined bounding box would improve usability and ensure a more organized layout.
 
 ### Approximately how long you spent on this project.
-
+I spent approximately 5-6 hours implementing the main functionality. I have finished the functionality in 4 hours after that spent additional time to fix several issues that I encountered during the process.
