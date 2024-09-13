@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "34DC3363-BDF3-4D29-BFBD-8366750503DF"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A7DFE0F6-2107-4552-92E6-9280D4F7DC58"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Headlines/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0D2979EF-FCC4-466C-AC9B-53AC26CDAAFE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/Headlines-bnhndhsyvfhzshcuyalzrrzdwlrl/SourcePackages/checkouts/Alamofire/Source/ParameterEncoding.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "265"
+            endingLineNumber = "265"
+            landmarkName = "encode(_:with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D82A5E6D-CE88-49BE-BF49-51CFB2B54D87"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Headlines/Screens/Articles/Model/Article.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "init(from:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D82A5E6D-CE88-49BE-BF49-51CFB2B54D87 - 2ac3639bfcf0e9d2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Headlines.Article.__allocating_init(from: Swift.Decoder) throws -&gt; Headlines.Article"
+                  moduleName = "Headlines"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankitakotadiya/Downloads/ios-codetest-master/Headlines/Screens/Articles/Model/Article.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "1556">
+               </Location>
+               <Location
+                  uuid = "D82A5E6D-CE88-49BE-BF49-51CFB2B54D87 - 2ac3639bfcf0e931"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Headlines.Article.__allocating_init(from: Swift.Decoder) throws -&gt; Headlines.Article"
+                  moduleName = "Headlines"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankitakotadiya/Downloads/ios-codetest-master/Headlines/Screens/Articles/Model/Article.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "1278">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "23DCE12E-926E-4D08-B34C-75AD271153E2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Headlines/Screens/Articles/View/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "153"
+            endingLineNumber = "153"
+            landmarkName = "favouritesButtonPressed()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "23DCE12E-926E-4D08-B34C-75AD271153E2 - 3b9b37114fb86a15"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Headlines.ViewController.favouritesButtonPressed() -&gt; ()"
+                  moduleName = "Headlines"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankitakotadiya/Downloads/ios-codetest-master/Headlines/Screens/Articles/View/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "130"
+                  endingLineNumber = "130"
+                  offsetFromSymbolStart = "50">
+               </Location>
+               <Location
+                  uuid = "23DCE12E-926E-4D08-B34C-75AD271153E2 - 3b9b37114fb86a72"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Headlines.ViewController.favouritesButtonPressed() -&gt; ()"
+                  moduleName = "Headlines"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankitakotadiya/Downloads/ios-codetest-master/Headlines/Screens/Articles/View/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "129"
+                  endingLineNumber = "129"
+                  offsetFromSymbolStart = "50">
+               </Location>
+               <Location
+                  uuid = "23DCE12E-926E-4D08-B34C-75AD271153E2 - 3b9b37114fb8696a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Headlines.ViewController.favouritesButtonPressed() -&gt; ()"
+                  moduleName = "Headlines"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankitakotadiya/Downloads/ios-codetest-master/Headlines/Screens/Articles/View/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "153"
+                  endingLineNumber = "153"
+                  offsetFromSymbolStart = "50">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "089B4C2E-AE22-4B98-892A-64C5FDC5C108"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Headlines/Screens/Favourites/ViewModel/FavouritesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "getSearchResults(for:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "089B4C2E-AE22-4B98-892A-64C5FDC5C108 - 14ade5a7c1480ee9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Headlines.FavouritesViewModel.getSearchResults(for: Swift.String, completion: (Swift.Array&lt;Headlines.Article&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Headlines"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankitakotadiya/Downloads/ios-codetest-master/Headlines/Screens/Favourites/ViewModel/FavouritesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "347">
+               </Location>
+               <Location
+                  uuid = "089B4C2E-AE22-4B98-892A-64C5FDC5C108 - 40f62168494493f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Headlines.Article) -&gt; Swift.Bool in Headlines.FavouritesViewModel.getSearchResults(for: Swift.String, completion: (Swift.Array&lt;Headlines.Article&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Headlines"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankitakotadiya/Downloads/ios-codetest-master/Headlines/Screens/Favourites/ViewModel/FavouritesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "55">
+               </Location>
+               <Location
+                  uuid = "089B4C2E-AE22-4B98-892A-64C5FDC5C108 - 14ade5a7c1480ee9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Headlines.FavouritesViewModel.getSearchResults(for: Swift.String, completion: (Swift.Array&lt;Headlines.Article&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Headlines"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankitakotadiya/Downloads/ios-codetest-master/Headlines/Screens/Favourites/ViewModel/FavouritesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "199">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E66C5F6F-895A-44FE-9A87-09AA162C9D25"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Headlines/Screens/Approach#2/PageVC/ArticleViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "favouritesButtonTapped(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "517EEA8B-E053-40D8-935B-69FD6C7033A4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Headlines/Screens/Approach#1/Articles/View/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "updateFromViewModel()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3DE67DF0-1B3E-4512-82A2-C7B76944F7C5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Headlines/Screens/Approach#1/Articles/ViewModel/ArticlesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "state"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
