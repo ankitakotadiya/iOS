@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "AE03B3DC-F3DE-457F-8B29-7702276338BE"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E36B109A-883F-4725-B732-7188E680A633"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ShoppingApp/Screens/Filter/ViewModel/FilterViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "selectedFilter"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "E36B109A-883F-4725-B732-7188E680A633 - 3b33456f90116448"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ShoppingApp.FilterViewModel.selectedFilter.getter : Swift.Array&lt;ShoppingApp.Filter&gt;"
+                  moduleName = "ShoppingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankitakotadiya/Downloads/ShoppingApp/ShoppingApp/Screens/Filter/ViewModel/FilterViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "75">
+               </Location>
+               <Location
+                  uuid = "E36B109A-883F-4725-B732-7188E680A633 - 66b72927f43ec3d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (ShoppingApp.Filter) -&gt; Swift.Bool in ShoppingApp.FilterViewModel.selectedFilter.getter : Swift.Array&lt;ShoppingApp.Filter&gt;"
+                  moduleName = "ShoppingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankitakotadiya/Downloads/ShoppingApp/ShoppingApp/Screens/Filter/ViewModel/FilterViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
